@@ -36,7 +36,7 @@ Os comandos disponíveis são:
 Oi {}! Meu nome é *{}* - estou aqui para ajudá-lo a gerenciar seus grupos!
 Clique no botão Ajuda para descobrir mais sobre como me usar em todo o meu potencial.
 
-Deseja me adicionar ao seu grupo? [Clique aqui!](t.me/LordHitsuki_BOT?startgroup=true)‌‌
+Deseja me adicionar ao seu grupo? [Clique aqui!](t.me/Shinchan_RoBot?startgroup=true)‌‌
 """,
 	"help_text": """
 Olá! Meu nome é *Hitsuki*. Eu sou um bot de gerenciamento de grupos, aqui para ajudá-lo a se locomover e manter a ordem em seus grupos!
