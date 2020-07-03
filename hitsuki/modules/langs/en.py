@@ -32,7 +32,7 @@ This is where translations come in; you can change the language of most replies 
 Hi {}! My name is *{}* - I'm here to help you manage your groups!
 Click Help button to find out more about how to use me to my full potential.
 
-Want to add me to your group? [Click here!](t.me/LordHitsuki_BOT?startgroup=true)
+Want to add me to your group? [Click here!](t.me/Shinchan_RoBot?startgroup=true)
 """,
 	"help_text": """
 Hey! My name is *Hitsuki*. I am a group management bot, here to help you get around and keep the order in your groups!
