@@ -34,7 +34,7 @@ HELP_STRINGS = "help_text"  # .format(dispatcher.bot.first_name, "" if not ALLOW
 VERSION = "4.1.1"
 
 SOURCE_STRING = """
-I'm built in python3, using the python-telegram-bot library, and am fully opensource - you can find what makes me tick [here](https://github.com/HitaloSama/Hitsuki)
+I'm built in python3, using the python-telegram-bot library, and am fully opensource - you can find what makes me tick [here](https://github.com/BeingAnonymousOfficial/Hitsuki)
 """
 
 
