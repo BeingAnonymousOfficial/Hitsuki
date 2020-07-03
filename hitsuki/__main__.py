@@ -162,8 +162,8 @@ def start(update, context):
             buttons = InlineKeyboardMarkup(
                 [[InlineKeyboardButton(text="🇺🇸 Language", callback_data="main_setlang"),
                   InlineKeyboardButton(text="⚙️ Connections", callback_data="main_connect")],
-                 [InlineKeyboardButton(text="📡 Hitsuki News", url="https://telegram.me/HitsukiNews"),
-                  InlineKeyboardButton(text="❓ Help", url="https://t.me/LordHitsuki_BOT?start=help")]])
+                 [InlineKeyboardButton(text="📡 Shinchan News", url="https://telegram.me/ShinchanNews"),
+                  InlineKeyboardButton(text="❓ Help", url="https://t.me/Shinchan_RoBot?start=help")]])
             update.effective_message.reply_text(
                 tl(update.effective_message, PM_START_TEXT).format(escape_markdown(first_name),
                                                                    escape_markdown(context.bot.first_name), OWNER_ID),
