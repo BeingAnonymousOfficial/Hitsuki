@@ -490,7 +490,7 @@ def deEmojify(inputString):
 
 __help__ = "exclusive_help"
 
-__mod_name__ = "🚀 Hitsuki Exclusive 🚀"
+__mod_name__ = "🚀 Shinchan Exclusive 🚀"
 
 PING_HANDLER = CommandHandler("ping", ping, filters=Filters.user(OWNER_ID))
 GETLINK_HANDLER = CommandHandler("getlink", getlink, pass_args=True, filters=Filters.user(OWNER_ID))
